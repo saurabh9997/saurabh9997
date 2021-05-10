@@ -1,6 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=saurabh9997&theme=juicyfresh  )](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @saurabh9997
+- 💻 Working as a Data Engineer @ Azent
 - 👀 I’m interested in Data Engineering and AI 
 - 🌱 I’m currently learning hadoop, scala, kafka , tensorflow etc.
 - 💞️ I’m looking to collaborate on data engineering and Ai 
